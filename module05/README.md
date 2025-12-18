@@ -2,7 +2,7 @@
 
 ## Assignment 5.1: Coupon Analysis
 
-[Jupyter notebook for assignment 5.1](./assignment5_1/prompt.jpynb)
+[Jupyter notebook for assignment 5.1](assignment5_1/prompt.ipynb)
 
 ### Summary of Findings
 
